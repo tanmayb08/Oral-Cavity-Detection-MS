@@ -9,6 +9,7 @@
     https://drive.google.com/file/d/1r3zpsRIhUfyQQrAyTdyAqvtnxGwFCJUB/view?usp=sharing
 
 <h2>Instructions to execute program / How to use ? : </h2>
+
 * activate created virtual environment $ \.venv\Scripts\activate
 -execute main program file "app.py" $ python app.py
 -copy the URL from command prompt and paste it into the web browser
