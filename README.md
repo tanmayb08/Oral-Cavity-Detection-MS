@@ -9,6 +9,6 @@
 
 <h2>Instructions to execute program / How to use ? : </h2>
 
-* activate created virtual environment ''' $ \.venv\Scripts\activate '''
-* execute main program file "app.py"  ''' $ python app.py '''
+* activate created virtual environment '$ \.venv\Scripts\activate'
+* execute main program file "app.py"  '$ python app.py'
 * copy the URL from command prompt and paste it into the web browser
