@@ -12,3 +12,6 @@
 * activate created virtual environment '$ \.venv\Scripts\activate'
 * execute main program file "app.py"  '$ python app.py'
 * copy the URL from command prompt and paste it into the web browser
+* upload cavity image
+* click on show result
+* wait for some time and result will be displayed
